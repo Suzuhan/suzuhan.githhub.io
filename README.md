@@ -1,2 +1,0 @@
-# suzuhan.githhub.io
-blog
