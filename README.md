@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simpleyyt
 
 My blog based on Jekyll-Bootstrap.
@@ -33,3 +34,6 @@ You must place "<!--more-->" at paragraph in post. The whole content will be dis
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+=======
+blog
+>>>>>>> dbbc1139c3fe27446ba6e41a2d299fd509723ce9
